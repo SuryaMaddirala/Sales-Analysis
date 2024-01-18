@@ -1,4 +1,4 @@
-Here are some key reasons highlighting the importance of Power BI in sales analysis:
+Here are some major components of this project:
 1. Data Visualizations
 2. Real Time Insights
 3. Integratin with multiple data resources
